@@ -1,0 +1,36 @@
+body{
+	background-color: lightgrey;
+}
+
+h1{
+	color: gold;
+	 font-size: 50px;
+	 text-decoration: underline;
+}
+
+#first{
+	font-size: 150px;
+}
+
+.small{
+	font-size: 12px;
+}
+
+span{
+	font-style: italic;
+}
+
+h2 span{
+	text-decoration: line-through;
+}
+
+h2{
+	font-size: 40px;
+	color: orange;
+	background: black;
+	font-weight: lighter;
+	font-family: cursive;
+	margin-left: 3cm;
+	margin-top: 3cm;
+
+}
