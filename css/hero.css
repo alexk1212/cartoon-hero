@@ -1,0 +1,20 @@
+header{
+	background-color: #124daa;
+	padding: 20px;
+	text-align: center;
+}
+
+h1{
+	font-size: 90px;
+	color: white;
+}
+
+header img{
+	border-radius: 150px;
+}
+/*<header>
+	<img src="http://darksouls.wikidot.com/local--files/enemies/black-knight-sword-large.jpg">
+	<h1>
+	<a href="http://darksouls.wikidot.com/black-knight" target="_blank" title="visit the dark souls page">Dark Knight</a>
+	</h1>
+</header>/*
